@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on MERN Stack.
 - 🌱 I’m currently learning MERN,AWS.
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dikshitkkapoor19@gamil.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love painting.
--->
+
