@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Full Stack development.
-- 🌱 I’m currently developing applications using Angular and Flask.
+- 🌱 I’m currently developing applications using React js and Java Springboot.
 - 👯 I’m looking to collaborate on live projects, startups. 
 - 🤔 I’m looking for help with Web applications.
 - 💬 Ask me about full stack development and cloud computing.
